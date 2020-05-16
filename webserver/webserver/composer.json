@@ -1,0 +1,17 @@
+{
+    "name": "mathe/firebase",
+    "description": "first test with PHP and firebase",
+    "type": "project",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Zoey",
+            "email": "zoey.spessanha@zeetech.io"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "4.35",
+        "php": ">= 7.2.0"
+    }
+}
