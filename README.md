@@ -6,7 +6,11 @@
   </a>
 </p>
 
-## Description
+## Description and Screenshots
+
+<div style="margin: 0 auto; width: 30%">
+  <img src="./images/homepage.png" />
+</div>
 
 Final paper of IT course on IFF. It's a door unlocking system with biometry lock.
 
@@ -20,6 +24,10 @@ The project has three parts:
 
 ### ✨ [Demo](https://youtu.be/9jUqSHhrxhc)
 
+## 📝 License
+
+This project is [Apache 2.0](https://github.com/Mdsp9070/AnalyseRoom/blob/master/LICENSE) licensed.
+
 ## Author
 
 👤 **Zoey <zoey.spessanha@zeetech.io>**
@@ -27,10 +35,3 @@ The project has three parts:
 * Twitter: [@zoedsoupe](https://twitter.com/zoedsoupe)
 * Github: [@Mdsp9070](https://github.com/Mdsp9070)
 * LinkedIn: [@mdsp](https://linkedin.com/in/mdsp)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
