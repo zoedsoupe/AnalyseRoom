@@ -8,8 +8,8 @@
 
 ## Description and Screenshots
 
-<div style="margin: 0 auto; width: 30%">
-  <img src="./images/homepage.png" />
+<div align="center">
+  <img src="./images/homepage.png" width="30%" />
 </div>
 
 Final paper of IT course on IFF. It's a door unlocking system with biometry lock.
